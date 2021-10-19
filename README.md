@@ -77,3 +77,7 @@ Create animated components using HTML, CSS, JS and get them featured [here](http
 - Describe what your codeblock / function does in the PR.
 - Having difficulty in contributing? Read the [Contribution Guide](CONTRIBUTING.md) for a detailed explanation.
 
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/PCCoE-Hacktoberfest-21/animated-components/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=PCCoE-Hacktoberfest-21/animated-components"/>
+</a>
